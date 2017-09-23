@@ -1,0 +1,10 @@
+fatal: Not a git repository (or any of the parent directories): .git
+$ git init
+
+
+fatal: remote origin already exists.
+$ git remote rm origin
+
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com/LindaLovelace/test.git'
+
